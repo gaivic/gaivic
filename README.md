@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivtor Tsai</h1>
+<h1 align="center">Hi 👋, I'm Victor Tsai</h1>
 <h3 align="center">A passionate student and developer from Taiwan.</h3>
 
 - 🔭 I’m currently working on **my potfolio website**
